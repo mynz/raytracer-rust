@@ -1,0 +1,8 @@
+[package]
+name = "raytracer-rust"
+version = "0.1.0"
+authors = ["mynz <rollingteapot@gmail.com>"]
+
+[dependencies]
+
+nalgebra = "0.16.0"
