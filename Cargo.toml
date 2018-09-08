@@ -5,4 +5,7 @@ authors = ["mynz <rollingteapot@gmail.com>"]
 
 [dependencies]
 
-nalgebra = "0.16.0"
+#nalgebra = "0.16.0"
+
+png = "0.12.0"
+image = "0.18.0"
